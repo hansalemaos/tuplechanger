@@ -2,6 +2,7 @@
 
 ## Important: Never use this in a real project! Hacked tuples might lead to unexpected results! 
 
+### pip install tuplechanger
 
 ```python
 
